@@ -1,0 +1,2 @@
+# ultra96v2_mnist
+ultra96v2とvivado2019.2，Debianを用いたmnist推論の実行
